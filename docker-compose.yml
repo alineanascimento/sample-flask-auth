@@ -13,4 +13,4 @@ services:
       # Opens port 3306 on the container
       - '3306'
     volumes:
-      - /mnt/c/Users/aline/modulo4/mysql:/var/lib/mysqlwsl --status
+      - /mnt/c/Users/aline/modulo4/mysql:/var/lib/mysql
